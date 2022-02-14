@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quest8_csharp", "quest8_csharp\quest8_csharp.csproj", "{2B140675-04D8-43B1-B7D6-042452195946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B140675-04D8-43B1-B7D6-042452195946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B140675-04D8-43B1-B7D6-042452195946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B140675-04D8-43B1-B7D6-042452195946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B140675-04D8-43B1-B7D6-042452195946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C54DB76-2129-4755-86CA-E435A7F12F84}
+	EndGlobalSection
+EndGlobal
